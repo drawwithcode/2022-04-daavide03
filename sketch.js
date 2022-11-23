@@ -3,8 +3,8 @@ var lines = [];
 // let cy;
 
 function preload() {
-  img = loadImage("./assets/Muro.png");
-  imgmask = loadImage("./assets/Muromask.png");
+  img = loadImage("assets/Muro.png");
+  imgmask = loadImage("assets/Muromask.png");
 }
 
 
